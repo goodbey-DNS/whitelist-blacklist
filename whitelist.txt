@@ -86,3 +86,5 @@
 @@||openysf.cup.com.cn^
 @@||pay.cup.com.cn^
 @@||static.dingtalk.com^
+@@||ime.doubao.com^$important
+@@||landyin-xl.gasos.cn^$important
