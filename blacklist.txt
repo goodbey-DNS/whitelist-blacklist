@@ -360,3 +360,12 @@
 ||cloudvip.95516.com^
 ||insassetbff.alipay.com^
 ||3.cn^
+||aloc-offline.amap.com^
+||hshh.org^
+||act.weixin.qq.com^
+||codepush.appcenter.ms^
+||cs.map.qq.com^
+||lbs6.map.qq.com^
+||payapp.weixin.qq.com^
+||maycur-static-uat.oss-cn-hangzhou.aliyuncs.com^
+||uniydbx.oss-cn-shenzhen.aliyuncs.com^
