@@ -88,3 +88,4 @@
 @@||static.dingtalk.com^
 @@||ime.doubao.com^
 @@||landyin-xl.gasos.cn^
+@@||upbuy.com.cn^
