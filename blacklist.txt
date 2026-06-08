@@ -400,3 +400,5 @@
 ||cdn2.codesign.qq.com^
 ||chong.qq.com^
 ||wximg.qq.com^
+||metric.gstatic.com^
+||render-prod-backup-tile.amap.com^
