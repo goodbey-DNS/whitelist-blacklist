@@ -259,7 +259,6 @@
 ||device-id-gen.huolala.cn^
 ||eapph5-v.huolala.cn^
 ||hll-mcv-crash-gateway.huolala.cn^
-```
 ||ckaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa^
 ||puncher-ipv6.dcdn.baidu.com^
 ||livecb-rtclive.taobao.com^
@@ -373,7 +372,6 @@
 ||c2.amap.com^
 ||traffic-ivs.amap.com^
 ||aos-comment.amap.com^
-||c1.amap.com^
 ||voiceip.amap.com^
 ||cdn-offlinedata.amap.com^
 ||priv-dp.amap.com^
