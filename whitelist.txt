@@ -89,3 +89,5 @@
 @@||ime.doubao.com^
 @@||landyin-xl.gasos.cn^
 @@||upbuy.com.cn^
+@@||amap-offlinedata.amap.com^
+@@||amap-offlinedata.amap.com^
