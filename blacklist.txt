@@ -182,3 +182,15 @@
 ||search.wxqcloud.qq.com^
 ||findermp.video.qq.com^
 ||minorshort.weixin.qq.com^
+||gaodena620-ing.amap.com^
+||gaodesa128-ing.amap.com^
+||aos-comment.amap.com^
+||amap.onelink.me^
+||ai.amap.com^
+||m5-zb.amap.com^
+||sns.amap.com^
+||adiu.amap.com^
+||sharetrip-resource.amap.com^
+||vassets.amap.com^
+||mum.m.alibaba.com^
+||apimobile.meituan.com^
