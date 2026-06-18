@@ -1,4 +1,7 @@
 @@||520168188.xyz^$important
+@@||hei365.top^
+@@||openysf.cup.com.cn^
+@@||c1.amap.com^
 @@||ecosaas.com^
 @@||maycur.com^
 @@||pec.com.cn^
@@ -83,11 +86,10 @@
 @@||hub5sr.v6.shub.sandai.net^
 @@||dlandroid.rcv.sandai.net^
 @@||mobilegw.alipay.com^
-@@||openysf.cup.com.cn^
 @@||pay.cup.com.cn^
 @@||static.dingtalk.com^
 @@||ime.doubao.com^
 @@||landyin-xl.gasos.cn^
-@@||upbuy.com.cn^
 @@||amap-offlinedata.amap.com^
-@@||amap-offlinedata.amap.com^
+@@||ccloud.fuioupay.com^
+@@||sctfia.com^
