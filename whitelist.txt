@@ -17,7 +17,6 @@
 @@||csc-static-sh.sgcc.com.cn^
 @@||kimi.com^
 @@||prod-chat-kimi.tos-cn-beijing.volces.com^
-@@||api-cloudprint.pantum.com^
 @@||img1.scrcu.com^
 @@||image.mybank.icbc.com.cn^
 @@||mpaas1.scrcu.com^
