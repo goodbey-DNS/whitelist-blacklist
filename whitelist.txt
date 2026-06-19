@@ -1,5 +1,6 @@
 @@||520168188.xyz^$important
-@@||hei365.top^
+@@||retail-filepub.oss-cn-shenzhen.aliyuncs.com^$important
+@@||hei365.top^$important
 @@||openysf.cup.com.cn^
 @@||c1.amap.com^
 @@||ecosaas.com^
@@ -7,7 +8,7 @@
 @@||pec.com.cn^
 @@||pec.yunxuetang.cn^
 @@||tbapi.hei365.top^$important
-@@||upbuy.com.cn^
+@@||upbuy.com.cn^$important
 @@||wx-h5-lida.gasos.cn^
 @@||apacashier.crcgas.com^
 @@||update.miui.com^
