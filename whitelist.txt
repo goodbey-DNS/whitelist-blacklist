@@ -23,5 +23,10 @@
 @@||api.cloud.189.cn^
 @@||scap1.scrcu.com^
 @@||scap.scrcu.com^
-@@||hub.sandai.net^
-@@||app.market.xiaomi.com^
+@@||hub5pn.wap.sandai.net^
+@@||hub5idx.v6.shub.sandai.net^
+@@||fgb0.market.xiaomi.com^
+@@||sf0.market.xiaomi.com^
+@@||t1.market.xiaomi.com^
+@@||pfga-accelerate.market.xiaomi.com^
+@@||explorer.market.xiaomi.com^

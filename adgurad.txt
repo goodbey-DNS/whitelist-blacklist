@@ -1,6 +1,6 @@
 ||finderbdy.video.qq.com^
 ||ue.indoorloc.map.qq.com^
-||lbs.map.qq.com^$important
+||lbs.map.qq.com^
 ||mdap.mpaas.cn-hangzhou.aliyuncs.com^
 ||mpaasapi.mpaas.cn-hangzhou.aliyuncs.com^
 ||auth-asg.aliyuncs.com^
@@ -47,3 +47,5 @@
 ||vassets.amap.com^
 ||mum.m.alibaba.com^
 ||apimobile.meituan.com^
+||fp.amap.com^
+||info.amap.com^
