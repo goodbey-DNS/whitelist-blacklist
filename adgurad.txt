@@ -1,6 +1,4 @@
 ||finderbdy.video.qq.com^
-||ue.indoorloc.map.qq.com^
-||lbs.map.qq.com^
 ||mdap.mpaas.cn-hangzhou.aliyuncs.com^
 ||mpaasapi.mpaas.cn-hangzhou.aliyuncs.com^
 ||auth-asg.aliyuncs.com^
@@ -9,7 +7,6 @@
 ||meta.alicdn.com^
 ||gw.alicdn.com^
 ||wx.qq.com^
-||lbs6.map.qq.com^
 ||long.weixin.qq.com^
 ||short.pay.weixin.qq.com^
 ||time2.aliyun.com^
@@ -20,10 +17,6 @@
 ||msgacs.cn-zhangjiakou.aliyuncs.com^
 ||mp.weixin.qq.com^
 ||aps.amap.com^
-||altitude.map.qq.com^
-||vectorsdk.map.qq.com^
-||regionlbs.map.qq.com^
-||shquic.weixin.qq.com^
 ||aloc-control-plus.amap.com^
 ||mobilegw.alipay.com^
 ||finderhsy.video.qq.com^

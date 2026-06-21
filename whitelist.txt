@@ -2,6 +2,7 @@
 @@||tbapi.hei365.top^$important
 @@||upbuy.com.cn^$important
 @@||retail-filepub.oss-cn-shenzhen.aliyuncs.com^$important
+@@||rtongbaohuanan.oss-cn-shenzhen.aliyuncs.com^$important
 @@||ecosaas.com^
 @@||maycur.com^$important
 @@||pec.com.cn^$important

@@ -21,3 +21,5 @@
 ||recommender.ecovacs.com^
 ||rta.tripad.fliggy.com^
 ||sa-datasink.ecovacs.cn^
+||xtracloud.cn^$important
+||caihong5g.com^$important
