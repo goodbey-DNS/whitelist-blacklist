@@ -2,4 +2,4 @@
 
 黑名单地址：https://raw.githubusercontent.com/goodbey-DNS/whitelist-blacklist/refs/heads/main/blacklist.txt
 
-adgurad：https://raw.githubusercontent.com/goodbey-DNS/whitelist-blacklist/refs/heads/main/adgurad.txt
+所有规则测试自用
