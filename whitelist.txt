@@ -31,3 +31,5 @@
 @@||t1.market.xiaomi.com^
 @@||pfga-accelerate.market.xiaomi.com^
 @@||explorer.market.xiaomi.com^
+@@||dualstack-a.apilocate.amap.com^
+@@||apilocate.amap.com^

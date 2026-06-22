@@ -29,3 +29,6 @@
 ||time.nist.gov^
 ||analytics.map.qq.com^
 ||support.weixin.qq.com^
+||bird.cn-hangzhou.log.aliyuncs.com^
+||dualstack-cgicol.amap.com^
+||cgicol.amap.com^
