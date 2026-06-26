@@ -33,3 +33,5 @@
 @@||explorer.market.xiaomi.com^
 @@||dualstack-a.apilocate.amap.com^
 @@||apilocate.amap.com^
+@@||dualstack-arestapi.amap.com^
+@@||restsdk.amap.com^

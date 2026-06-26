@@ -9,6 +9,8 @@
 ||game.weixin.qq.com^
 ||amazon.com^
 ||baidu.com^
+||qualcomm.cn^
+||*.qualcomm.cn^
 ||bytegecko.com^
 ||*.internet-measurement.com^
 ||ecombdapi.com^
@@ -32,3 +34,9 @@
 ||bird.cn-hangzhou.log.aliyuncs.com^
 ||dualstack-cgicol.amap.com^
 ||cgicol.amap.com^
+||umdcv4.taobao.com^
+||*.h3c.com^
+||*.myapp.com^
+||*.h5-tsl.douyincdn.com^
+||*hs-f5-encryption.douyincdn.com^
+||hagfish.yingt.fun^
