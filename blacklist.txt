@@ -46,3 +46,6 @@
 ||log.mmstat.com^
 ||tnc*.zijieapi.com^
 ||*.mi-img.com^
+||info.amap.com^
+||traffic-ivs.amap.com^
+||faas-image-er.amap.com^
