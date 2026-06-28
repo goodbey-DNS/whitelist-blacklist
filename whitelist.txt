@@ -35,3 +35,5 @@
 @@||apilocate.amap.com^
 @@||dualstack-arestapi.amap.com^
 @@||restsdk.amap.com^
+@@||m5.amap.com^
+@@||m5-x.amap.com^
