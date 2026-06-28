@@ -10,7 +10,6 @@
 ||amazon.com^
 ||baidu.com^
 ||qualcomm.cn^
-||qualcomm.cn^
 ||bytegecko.com^
 ||internet-measurement.com^
 ||ecombdapi.com^
