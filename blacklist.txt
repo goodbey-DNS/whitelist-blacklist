@@ -40,3 +40,9 @@
 ||*.h5-tsl.douyincdn.com^
 ||*hs-f5-encryption.douyincdn.com^
 ||hagfish.yingt.fun^
+||fp.amap.com^
+||zb.amap.com^
+||mssdk*.zijieapi.com^
+||log.mmstat.com^
+||tnc*.zijieapi.com^
+||*.mi-img.com^
