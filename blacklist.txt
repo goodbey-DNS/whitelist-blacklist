@@ -6,6 +6,9 @@
 ||duokan.com^
 ||51awifi.com^
 ||caihong5g.com^
+||cdn.cnbj1.fds.api.mi-img.com^
+###########天翼云#########
+||api.yuntu.21cn.com^
 ########工商银行相关#########
 ||pageviewp.icbc.com.cn^
 ############科沃斯相关#########
@@ -53,6 +56,7 @@
 ||umdcv4.taobao.com^
 ||rta.tripad.fliggy.com^
 ||ele.me^
+||fourier.taobao.com^
 ##########腾讯产品相关############
 ||analytics.map.qq.com^
 ||myapp.com^
@@ -60,9 +64,13 @@
 ||ads.privacy.qq.com^
 ||rdelivery.qq.com^
 ||game.weixin.qq.com^
+||t*.shangweike.cn^
+||shangweike.cn^
 #################杂七杂八############################
 ||amazon.com^
 ||internet-measurement.com^
 #########高德采集服务观察####
 ||dualstack-cgicol.amap.com^
 ||cgicol.amap.com^
+###########查无资料########
+||hagfish.yingt.fun^$important

@@ -7,6 +7,10 @@
 @@||pec.com.cn^$important
 @@||pec.yunxuetang.cn^$important
 @@||upbuy.com.cn^$important
+@@||yxt.com^
+@@||yunxuetang.cn^
+@@||ecosaas.com^
+@@||alibtrip.com^
 @@||retail-filepub.oss-cn-shenzhen.aliyuncs.com^
 @@||rtongbaohuanan.oss-cn-shenzhen.aliyuncs.com^
 #########微信利达加油站#########
@@ -35,11 +39,15 @@
 @@||mpaas1.scrcu.com^
 ############天翼手机云盘#########
 @@||api.cloud.189.cn^
+@@||preview.cloud.189.cn^
+@@||cloud.189.cn^
 #############手机kimi#########
 @@||kimi.com^
 @@||prod-chat-kimi.tos-cn-beijing.volces.com^
 ##########国家电网相关##########
 @@||csc-static-sh.sgcc.com.cn^
+#########海信空调APP##########
+@@||auth-mobile.hismarttv.com^
 ############高德地图相关###########
 @@||dualstack-a.apilocate.amap.com^
 @@||apilocate.amap.com^
@@ -47,3 +55,8 @@
 @@||restsdk.amap.com^
 @@||m5.amap.com^
 @@||m5-x.amap.com^
+@@||faas-image-er.amap.com^
+@@||render-prod-tile.amap.com^
+@@||page.amap.com^
+@@||sync.amap.com^
+@@||amap-aos-info-nogw.amap.com^
