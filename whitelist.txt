@@ -66,6 +66,10 @@
 @@||amap-aos-info-nogw.amap.com^
 @@||render.amap.com^
 @@||c*.amap.com^
+@@||free-c*.amap.com^
+@@||mapdownload.autonavi.com^
+@@||aloc-gnss-eph.amap.com^
+@@||render-prod-backup-tile.amap.com^
 ##################抖音相关##############
 @@||*.douyinvod.com^
 @@||*.douyinstatic.com^
