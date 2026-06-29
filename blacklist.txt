@@ -45,6 +45,8 @@
 ||advert*.amap.com^
 ||dsp.amap.com^
 ||ssp.amap.com^
+||fp.amap.com^
+||ai.amap.com^
 ############货拉拉相关#########
 ||act2.huolala.cn^
 ||uba.huolala.cn^
