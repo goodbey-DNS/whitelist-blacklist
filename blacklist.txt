@@ -56,6 +56,7 @@
 ||mssdk*.zijieapi.com^
 ||bytegecko.com^
 ||ibytedapm.com^
+||sami.bytedance.com^
 ###############淘宝/阿里相关########
 ||log.mmstat.com^
 ||bird.cn-hangzhou.log.aliyuncs.com^
