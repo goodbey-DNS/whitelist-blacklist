@@ -10,6 +10,7 @@
 @@||pec.com.cn^$important
 @@||pec.yunxuetang.cn^$important
 @@||upbuy.com.cn^$important
+@@||codepush.appcenter.ms^
 @@||yxt.com^
 @@||yunxuetang.cn^
 @@||ecosaas.com^

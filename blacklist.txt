@@ -1,4 +1,6 @@
 ########小米相关#########
+||xiaomi.com^
+||xiaomi.cn^
 ||mi.com^
 ||miui.com^
 ||xiaomi.com^
