@@ -77,6 +77,8 @@
 @@||ts.amap.com^
 @@||m5.amap.com^
 @@||faas-image.amap.com^
+@@||free-mapdownload.autonavi.com^
+@@||sharetrip-resource.amap.com^
 ##################抖音相关##############
 @@||*.douyinvod.com^
 @@||*.douyinstatic.com^
@@ -92,3 +94,4 @@
 @@||dimg04.c-ctrip.com^
 @@||m.ctrip.com^
 @@||mum.alibabachengdun.net^
+@@||mum.alibabachengdun.com^
