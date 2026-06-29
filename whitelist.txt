@@ -72,6 +72,11 @@
 @@||render-prod-backup-tile.amap.com^
 @@||render-prod-backup-lnds.amap.com^
 @@||aloc-modeldata.amap.com^
+@@||sync.amap.com^
+@@||render.amap.com^
+@@||ts.amap.com^
+@@||m5.amap.com^
+@@||faas-image.amap.com^
 ##################抖音相关##############
 @@||*.douyinvod.com^
 @@||*.douyinstatic.com^
