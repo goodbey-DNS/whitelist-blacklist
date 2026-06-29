@@ -79,6 +79,7 @@
 @@||faas-image.amap.com^
 @@||free-mapdownload.autonavi.com^
 @@||sharetrip-resource.amap.com^
+@@||traffic-ivs.amap.com^
 ##################抖音相关##############
 @@||*.douyinvod.com^
 @@||*.douyinstatic.com^
