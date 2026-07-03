@@ -49,6 +49,7 @@
 ||ai.amap.com^
 ||awaken.amap.com^
 ||m5-zb.amap.com^
+||priv-dp.amap.com^
 ############货拉拉相关#########
 ||act2.huolala.cn^
 ||uba.huolala.cn^
@@ -66,6 +67,7 @@
 ||fourier.taobao.com^
 ||https://ynuf.aliapp.org/savewb.json?^
 ||ynuf.aliapp.org^
+||umdcv4.tmall.com^
 ##########腾讯产品相关############
 ||analytics.map.qq.com^
 ||myapp.com^
