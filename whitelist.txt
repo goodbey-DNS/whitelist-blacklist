@@ -30,6 +30,9 @@
 @@||ime-igw.doubao.com^
 #########手机更新相关########
 @@||update.miui.com^
+@@||hub5pn.wap.sandai.net^
+@@||hub5idx.v6.shub.sandai.net^
+@@||pfga-accelerate.market.xiaomi.com^
 ############信用社，农行银行相关############
 @@||scap1.scrcu.com^
 @@||scap.scrcu.com^

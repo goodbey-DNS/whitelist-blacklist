@@ -68,6 +68,8 @@
 ||https://ynuf.aliapp.org/savewb.json?^
 ||ynuf.aliapp.org^
 ||umdcv4.tmall.com^
+||taocaicai.m.taobao.com^
+||huodong.taobao.com^
 ##########腾讯产品相关############
 ||analytics.map.qq.com^
 ||myapp.com^
@@ -80,6 +82,9 @@
 #################杂七杂八############################
 ||amazon.com^
 ||internet-measurement.com^
+||dnsmeasure.top^
+||ronghe.asia^
+||*.jiadianliang.com^
 #########高德采集服务观察####
 ||dualstack-cgicol.amap.com^
 ||cgicol.amap.com^
