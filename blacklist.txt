@@ -50,6 +50,7 @@
 ||awaken.amap.com^
 ||m5-zb.amap.com^
 ||priv-dp.amap.com^
+||dualstack-logs.amap.com^
 ############货拉拉相关#########
 ||act2.huolala.cn^
 ||uba.huolala.cn^
@@ -85,8 +86,13 @@
 ||dnsmeasure.top^
 ||ronghe.asia^
 ||*.jiadianliang.com^
+||ynuf.aliapp.org^
+||wx.qlogo.cn^
+||ls.qrlybh.com^
+||hduofen.cn^
 #########高德采集服务观察####
 ||dualstack-cgicol.amap.com^
 ||cgicol.amap.com^
 ###########查无资料########
-||hagfish.yingt.fun^$important
+||hagfish.yingt.fun^
+||isaas.com^
