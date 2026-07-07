@@ -2,8 +2,11 @@
 ||*.xiaomi.com^
 ||*.xiaomi.cn^
 ||*.mi.com^
+||*.mi.cn^
 ||*.miui.com^
+||*.miui.cn^
 ||*.xiaomi.com^
+||*.xiaomi.cn^
 ||*.xiaomi.net^
 ||duokan.com^
 ||51awifi.com^
