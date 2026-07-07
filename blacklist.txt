@@ -1,10 +1,10 @@
 ########小米相关#########
-||xiaomi.com^
-||xiaomi.cn^
-||mi.com^
-||miui.com^
-||xiaomi.com^
-||xiaomi.net^
+||*.xiaomi.com^
+||*.xiaomi.cn^
+||*.mi.com^
+||*.miui.com^
+||*.xiaomi.com^
+||*.xiaomi.net^
 ||duokan.com^
 ||51awifi.com^
 ||caihong5g.com^
@@ -19,6 +19,7 @@
 #########高通芯片相关########
 ||xtracloud.cn^
 ||qualcomm.cn^
+||*.qualcomm.cn^
 ########百度相关##########
 ||baidu.com^
 ||ecombdapi.com^
@@ -90,6 +91,7 @@
 ||wx.qlogo.cn^
 ||ls.qrlybh.com^
 ||hduofen.cn^
+||dig.bdurl.net^
 #########高德采集服务观察####
 ||dualstack-cgicol.amap.com^
 ||cgicol.amap.com^
