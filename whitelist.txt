@@ -2,6 +2,10 @@
 ##########微信天然气#########
 @@||*.crcgas.com^$important
 @@||service.crcgas.com.cn^$important
+@@||public-ro.obs.cn-south-1.myhuaweicloud.com^
+###########海信空调########
+@@||api-wg.hismarttv.com^
+@@||thsprojuk.aliyun-hbbj-hisense.pubsub.tech^
 ###########微信自来水########
 @@||www.wegist.cn^$important
 ##########统一相关##########
@@ -48,6 +52,9 @@
 @@||prod-chat-kimi.tos-cn-beijing.volces.com^
 ##########国家电网相关##########
 @@||csc-static-sh.sgcc.com.cn^
+##########小区充电程序##########
+@@||app.cdbost.cn^
+@@||cosimg.cdbost.cn^
 #########海信空调APP##########
 @@||auth-mobile.hismarttv.com^
 ############高德地图相关###########
@@ -86,6 +93,10 @@
 @@||aloc-msr-s.amap.com^
 @@||aloc-offline.amap.com^
 @@||mpsapi.amap.com^
+@@||aos-cdn-image.amap.com^
+@@||amap-offlinedata.amap.com^
+@@||free-arch.amap.com^
+@@||webapi.amap.com^
 ##################抖音相关##############
 @@||*.douyinvod.com^
 @@||*.douyinstatic.com^
@@ -102,3 +113,8 @@
 @@||m.ctrip.com^
 @@||mum.alibabachengdun.net^
 @@||mum.alibabachengdun.com^
+@@||qiniu.servever.cn^
+#############微信相关############
+@@||apikey.map.qq.com^
+@@||apis.map.qq.com^
+@@||cc.map.qq.com^
