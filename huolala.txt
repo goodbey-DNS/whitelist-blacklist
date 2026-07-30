@@ -1,0 +1,28 @@
+﻿! ===== 必备拦截 | 行为追踪/用户分析/广告归因 | 共5条 ===== (安全拦截)
+||h.trace.qq.com^
+||loggw-exsdk.alipay.com^
+||manual.sensorsdata.cn^
+||norma-external-collect.meizu.com^
+||wspeed.qq.com^
+
+! ===== 推荐拦截 | 性能监控/崩溃上报 | 共20条 ===== (拦截后失去性能监控功能)
+||docs.sentry.io^
+||mdap-app-config.huolala.cn^
+||mdap-app-log-pre.huolala.cn^
+||mdap-app-log-stg.huolala.cn^
+||mdap-app-log.huolala.cn^
+||mdap-app-monitor-pre.huolala.cn^
+||mdap-app-monitor.huolala.cn^
+||mdap-app-pre.huolala.cn^
+||mdap-app-stg.huolala.cn^
+||mdap-app.huolala.cn^
+||mdap-app.xiaolachuxing.com^
+||mdap-devops.oss-cn-shenzhen.aliyuncs.com^
+||mdap-feedback-h5-v.huolala.cn^
+||mdapcdn.huolala.cn^
+||metrics-dra.dt.hicloud.com^
+||metrics1.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics5.dt.dbankcloud.ru^
+||mshield.baidu.com^

@@ -1,0 +1,9 @@
+﻿! ===== 必备拦截 | 广告/营销内容 | 共6条 =====
+||api-e189.21cn.com^
+||e.189.cn^
+||h5.gycf.creavidia.com^
+||h5.m.taobao.com^
+||marketing.eastmoney.com^
+||open.e.189.cn^
+! ===== 必备拦截 | 行为追踪 | 共7条 =====
+||pageviewp.icbc.com.cn^

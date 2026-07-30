@@ -1,0 +1,11 @@
+﻿! ===== 必备拦截 | 行为追踪/数据收集 | 共2条 ===== (安全拦截)
+||eis-nlp.dc-cn.cn.ecouser.net^
+||eis-nlp.ww.ecouser.net^
+
+! ===== 推荐拦截 | 性能监控/日志 | 共6条 ===== (拦截后失去性能监控功能)
+||cn-hangzhou.log.aliyuncs.com^
+||metrics-dra.dt.hicloud.com^
+||metrics1-drcn.dt.dbankcloud.cn^
+||metrics2.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics5.dt.dbankcloud.ru^

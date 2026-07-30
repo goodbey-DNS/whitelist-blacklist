@@ -1,79 +1,40 @@
-! ========== 必备级：广告投放（8 条）==========
-! 说明：腾讯广点通广告系统与微信广告投放域名。拦截不影响聊天/朋友圈/支付等核心功能
-!
-! [微信广告投放系统] ad.weixin.qq.com
+﻿! ========== 必备级：广告投放（8 条）==========
 ||ad.weixin.qq.com^
-! [微信广告子域] ad.wx.com
 ||ad.wx.com^
-! [广告隐私管理] ads.privacy.qq.com
 ||ads.privacy.qq.com^
-! [腾讯广点通广告] h5.gdt.qq.com
 ||h5.gdt.qq.com^
-! [广告投放] pagead2.googlesyndication.com
 ||pagead2.googlesyndication.com^
-! [腾讯广点通广告] review.ugdtimg.com
 ||review.ugdtimg.com^
-! [腾讯广点通广告] test-xj.gdt.qq.com
 ||test-xj.gdt.qq.com^
-! [腾讯广点通广告] wxadliteapp.gdt.qq.com
 ||wxadliteapp.gdt.qq.com^
-!
+
 ! ========== 必备级：行为追踪/打点/日志（15 条）==========
-! 说明：腾讯自研追踪链路与日志上报。拦截可显著提升隐私保护，不影响核心功能
-!
-! [行为追踪] app-measurement.com
 ||app-measurement.com^
-! [App配置获取（含设备信息）] appcfg.v.qq.com
 ||appcfg.v.qq.com^
-! [App渠道信息上报] appchannel.html5.qq.com
 ||appchannel.html5.qq.com^
-! [用户研究数据采集] apponline.research.qq.com
 ||apponline.research.qq.com^
-! [JS错误/性能监控] badjs.weixinbridge.com
 ||badjs.weixinbridge.com^
-! [腾讯通用归因追踪] btrace.qq.com
 ||btrace.qq.com^
-! [行为追踪] debug.firebase.analytics.app
 ||debug.firebase.analytics.app^
-! [行为追踪] debugger.io
 ||debugger.io^
-! [腾讯通用归因追踪] h.trace.qq.com
 ||h.trace.qq.com^
-! [内部日志采集] ilogs.woa.com
 ||ilogs.woa.com^
-! [实时日志上报] log.qvb.qcloud.com
 ||log.qvb.qcloud.com^
-! [JS打点统计] pingjs.qq.com
 ||pingjs.qq.com^
-! [实时日志上报] rtlog.qvb.qcloud.com
 ||rtlog.qvb.qcloud.com^
-! [腾讯云追踪器] tracker-00.qvb.qcloud.com
 ||tracker-00.qvb.qcloud.com^
-! [视频号日志上报] wechat-channels.logdata.qq.com
 ||wechat-channels.logdata.qq.com^
-!
+
 ! ========== 可选级：反作弊/风控（4 条）==========
-! 说明：安全验证域名。拦截后可能触发安全验证，不影响基础聊天功能
-!
-! [安全验证] s0.sec.wechat.com
 ||s0.sec.wechat.com^
-! [安全验证] s0.security.wechat.com
 ||s0.security.wechat.com^
-! [安全验证] sec.wechat.com
 ||sec.wechat.com^
-! [安全验证] security.wechat.com
 ||security.wechat.com^
 
 ! ========== 可选级：推送通道（3 条）==========
-! 说明：微信主要使用自有长连接推送（自定义协议不走DNS），这些仅适用于厂商通道兜底
-!
-! [推送通道] fastappjump-drcn.hispace.hicloud.com
 ||fastappjump-drcn.hispace.hicloud.com^
-! [推送通道] opencloud.wostore.cn
 ||opencloud.wostore.cn^
-! [推送通道] wap.cmpassport.com
 ||wap.cmpassport.com^
-
 ||rdelivery.qq.com^
 ||act.weixin.qq.com^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^

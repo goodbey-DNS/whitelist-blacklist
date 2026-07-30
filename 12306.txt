@@ -1,0 +1,18 @@
+﻿! ===== 必备拦截 | 广告/推广 | 共4条 =====
+||ad.12306.cn^
+||sdk.1rtb.net^
+||ups-beta.youku.com^
+||ups.youku.com^
+! ===== 必备拦截 | 行为追踪 | 共12条 =====
+||applog.uc.cn^
+||cltm.jd.com^
+||gjapplog.ucweb.com^
+||is.snssdk.com^
+||loggw-exsdk.alipay.com^
+||mdap.alipay.com^
+||tdid.m.qq.com^
+||up4-intl.ucweb.com^
+||up4.ucweb.com^
+||vali.cp31.ott.cibntv.net^
+||woodpecker.uc.cn^
+||wpk-auth.ucweb.com^

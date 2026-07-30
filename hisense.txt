@@ -1,0 +1,32 @@
+﻿! ===== 必备拦截 | 广告/营销SDK | 共18条 =====
+||ad-cache.dopool.com^
+||ad-data.starschina.com^
+||ad.mobiletv.madserving.com^
+||adapi.starschina.com^
+||adimo.co^
+||adv.madserving.com^
+||brendly.rs^
+||clickrising.com^
+||clk.madserving.com^
+||clk.pdb.madserving.com^
+||datadetect.com^
+||efunimage.ai160.com^
+||imp.madserving.com^
+||imp.pdb.madserving.com^
+||impertrixcdn.com^
+||qualifio.com^
+||test.adapi.starschina.com^
+||www.activetrail.biz^
+
+! ===== 必备拦截 | 行为追踪 | 共1条 =====
+||snowplowanalytics.com^
+
+! ===== 推荐拦截 | 视频/娱乐 | 共8条 =====
+||cdn-ws-ali-140.video-tx.com^
+||devportal-wxtv.hismarttv.com^
+||jhxvideo-ws.video-tx.com^
+||portal.vodapp.hismarttv.com^
+||public-wxtv.hismarttv.com^
+||testportal-wxtv.hismarttv.com^
+||v.sora.yoyi.com.cn^
+||wxtv-vod.hismarttv.com^
