@@ -1,0 +1,139 @@
+! ========== [必备] 广告投放 (21) ==========
+! 高德自有广告投放/推广通 (adiu.amap.com)
+! 阿里UT广告监测SDK (adashx.ut.*)
+! 短链跳转/营销活动页/唤醒拉活 (f.amap.com, wap.amap.com, awaken.amap.com, act.amap.com, page.amap.com)
+! 阿里妈妈广告统计 (mmstat.com)
+! 阿里动态创意CDN (dinamicx.alibabausercontent.com)
+! 字节跳动广告SDK (log.snssdk.com, applog.zijieapi.com, rtlog.zijieapi.com)
+! 支付宝推广 (promotion.alipay.com)
+||act.amap.com^
+||adashx.ut.amap.com^
+||adiu.amap.com^
+||applog.zijieapi.com^
+||awaken.amap.com^
+||dinamicx.alibabausercontent.com^
+||dinamicx.taobao.com^
+||f.amap.com^
+||h-adashx.ut.amap.com^
+||h-adashx.ut.taobao.com^
+||log.snssdk.com^
+||log.zijieapi.com^
+||mmstat.com^
+||page.amap.com^
+||promotion.alipay.com^
+||rtlog.zijieapi.com^
+||s-adashx.ut.taobao.com^
+||tp-pay.snssdk.com^
+||v6-adashx.ut.amap.com^
+||v6-adashx.ut.taobao.com^
+||wap.amap.com^
+
+! ========== [必备] 腾讯广告归因 (1) ==========
+! 采集OAID/Android ID/CAID用于广告归因
+||h.trace.qq.com^
+! ========== [必备] 行为追踪 (12) ==========
+! 高德埋点/指纹 (mtrace.amap.com, fp.amap.com, logs.amap.com)
+! 阿里UT埋点跨应用追踪 (adashx.m.taobao.com)
+! 阿里设备ID服务 (audid-api.taobao.com) - 跨应用ID标识
+! 支付宝日志网关/数据采集 (loggw.*, mdap.*)
+! 阿里天枢数据 (tianshu.alicdn.com)
+||audid-api.taobao.com^
+||fp.amap.com^
+||loggw-exsdk.alipay.com^
+||loggw-extiny.alipay.com^
+||loggw.alipay.com^
+||logs.amap.com^
+||mdap.alipay.com^
+||mdap.alipaylog.com^
+||mdap.mpaas.cn-hangzhou.aliyuncs.com^
+||mtrace.amap.com^
+||tianshu.alicdn.com^
+
+! ========== [推荐] 推送拉活 (82) ==========
+! 高德推送 (aps.amap.com, pushimg.amap.com)
+! 华为/荣耀推送 (dbankcloud.cn, hicloud.com, hihonor.com)
+! 小米推送 (xmpush.xiaomi.com)
+! 中国移动统一认证/推送 (cmpassport.com, wosms.cn)
+! 注: 拦截推送会使消息通知失效，按需启用
+||a.qchannel03.cn^
+||ali.wosms.cn^
+||api.platform.hihonorcloud.com^
+||app.chat.xiaomi.net^
+||aps.amap.com^
+||auth.wosms.cn^
+||b.qchannel03.cn^
+||cert.cmpassport.com^
+||cmpassport.com^
+||cn.register.xmpush.xiaomi.com^
+||config2.cmpassport.com^
+||connect-dra.dbankcloud.cn^
+||connect-dra.hispace.hicloud.com^
+||connect-drcn.dbankcloud.cn^
+||connect-drcn.hispace.hicloud.com^
+||connect-dre.dbankcloud.cn^
+||connect-dre.hispace.hicloud.com^
+||connect-drru.hispace.dbankcloud.cn^
+||connect-drru.hispace.dbankcloud.ru^
+||connect-ws-dra.hispace.dbankcloud.cn^
+||connect-ws-dra.hispace.dbankcloud.com^
+||connect-ws-drcn.hispace.dbankcloud.cn^
+||connect-ws-drcn.hispace.dbankcloud.com^
+||connect-ws-dre.hispace.dbankcloud.cn^
+||connect-ws-dre.hispace.dbankcloud.com^
+||connect-ws-drru.hispace.dbankcloud.cn^
+||connect-ws-drru.hispace.dbankcloud.ru^
+||control.aps.amap.com^
+||d.qchannel03.cn^
+||data-dra.push.dbankcloud.com^
+||data-drcn.push.dbankcloud.com^
+||data-dre.push.dbankcloud.com^
+||data-drru.push.dbankcloud.com^
+||dbankcdn.cn^
+||dbankcdn.com^
+||fd.qchannel03.cn^
+||fd2.qchannel03.cn^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||grs.platform.dbankcloud.ru^
+||hnid-dra.cloud.hihonor.com^
+||hnid-dra.platform.hihonorcloud.com^
+||hnid-drcn.cloud.hihonor.com^
+||hnid-drcn.platform.hihonorcloud.com^
+||hnid-dre.cloud.hihonor.com^
+||hnid-dre.platform.hihonorcloud.com^
+||hnid-drru.cloud.hihonor.com^
+||hnid-drru.platform.hihonorcloud.com^
+||hnid.cloud.hihonor.com^
+||hnid.hihonor.com^
+||hnid.platform-dra.hihonorcloud.com^
+||hnid.platform.hihonorcloud.com^
+||hnoauth-login-dra.cloud.hihonor.com^
+||hnoauth-login-dre.cloud.hihonor.com^
+||hnoauth-login-drru.cloud.hihonor.com^
+||hnoauth-login.cloud.hihonor.com^
+||honorboard-drcn.hihonorcdn.com^
+||log.qchannel03.cn^
+||log2.cmpassport.com^
+||login.platform.hihonorcloud.com^
+||metrics-dra.dt.hicloud.com^
+||metrics-dra.dt.hihonorcloud.com^
+||metrics-drcn.dt.hihonorcloud.com^
+||metrics-dre.dt.hihonorcloud.com^
+||metrics-drru.dt.hihonorcloud.com^
+||metrics.dt.hihonorcloud.com^
+||metrics1-drcn.dt.dbankcloud.cn^
+||metrics2.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics5.dt.dbankcloud.ru^
+||msv6.wosms.cn^
+||opencloud.wostore.cn^
+||privacycenter.hihonor.com^
+||pushimg.amap.com^
+||rcs.cmpassport.com^
+||resolver.msg.xiaomi.net^
+||sandbox.xmpush.xiaomi.com^
+||truth.qchannel03.cn^
+||verify.cmpassport.com^
+||wap.cmpassport.com^
+||www.hihonor.com^

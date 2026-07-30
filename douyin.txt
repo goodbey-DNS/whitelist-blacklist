@@ -1,0 +1,172 @@
+! [字节广告平台] ad.oceanengine.com（拦截不影响核心功能）
+||ad.oceanengine.com^
+! [广告投放] ad.toutiao.com（拦截不影响核心功能）
+||ad.toutiao.com^
+! [广告投放] ad.zijieapi.com（拦截不影响核心功能）
+||ad.zijieapi.com^
+! [阿里/第三方广告] adiu.amap.com（拦截不影响核心功能）
+||adiu.amap.com^
+! [字节广告平台] ads.tiktok.com（拦截不影响核心功能）
+||ads.tiktok.com^
+! [字节广告平台] athena-api.oceanengine.com（拦截不影响核心功能）
+||athena-api.oceanengine.com^
+! [字节广告平台] clue.oceanengine.com（拦截不影响核心功能）
+||clue.oceanengine.com^
+! [腾讯归因] h.trace.qq.com（拦截不影响核心功能）
+||h.trace.qq.com^
+! [字节广告平台] leads.oceanengine.com（拦截不影响核心功能）
+||leads.oceanengine.com^
+! [字节广告平台] playable.oceanengine.com（拦截不影响核心功能）
+||playable.oceanengine.com^
+! [字节广告平台] rubeex.oceanengine.com（拦截不影响核心功能）
+||rubeex.oceanengine.com^
+! [字节广告平台] www.oceanengine.com（拦截不影响核心功能）
+||www.oceanengine.com^
+!
+! ========== 必备级：行为追踪（26 条）==========
+! 说明：用户行为采集/点击流/设备指纹/日志上报，拦截可显著提升隐私保护
+!
+! [火山分析] analytics.volcengineapi.com
+||analytics.volcengineapi.com^
+! [用户调研/数据采集] api.feelgood.cn
+||api.feelgood.cn^
+! [日志上报] applog.snssdk.com
+||applog.snssdk.com^
+! [日志上报] applog.zijieapi.com
+||applog.zijieapi.com^
+! [字节监控追踪] bytereplay.zijieapi.com
+||bytereplay.zijieapi.com^
+! [代码着色（收集）] code-coloring-report.zijieapi.com
+||code-coloring-report.zijieapi.com^
+! [特性实验] feature-center.zijieapi.com
+||feature-center.zijieapi.com^
+! [用户调研/数据采集] feelgood-api.tiktok.com
+||feelgood-api.tiktok.com^
+! [日志上报] live-player-log.zijieapi.com
+||live-player-log.zijieapi.com^
+! [日志上报] log.snssdk.com
+||log.snssdk.com^
+! [日志上报] log.zijieapi.com
+||log.zijieapi.com^
+! [日志上报] logview.zijieapi.com
+||logview.zijieapi.com^
+! [字节监控追踪] mon.snssdk.com
+||mon.snssdk.com^
+! [字节监控追踪] mon.toutiao.com
+||mon.toutiao.com^
+! [字节监控追踪] mon.toutiaocloud.com
+||mon.toutiaocloud.com^
+! [字节监控追踪] mon.toutiaocloud.net
+||mon.toutiaocloud.net^
+! [字节监控追踪] mon.zijieapi.com
+||mon.zijieapi.com^
+! [字节监控追踪] polaris.zijieapi.com
+||polaris.zijieapi.com^
+! [行为采集] report.snssdk.com
+||report.snssdk.com^
+! [日志上报] rtapplog.snssdk.com
+||rtapplog.snssdk.com^
+! [日志上报] rtlog.snssdk.com
+||rtlog.snssdk.com^
+! [日志上报] rtlog.zijieapi.com
+||rtlog.zijieapi.com^
+! [字节监控追踪] slardar.bytedance.net
+||slardar.bytedance.net^
+! [用户调研/数据采集] survey.feelgood.cn
+||survey.feelgood.cn^
+! [字节监控追踪] thanos.zijieapi.com
+||thanos.zijieapi.com^
+! [字节监控追踪] timon.zijieapi.com
+||timon.zijieapi.com^
+!
+! ========== 必备级：反作弊风控（18 条）==========
+! 说明：验证码/设备指纹/风控校验，拦截后可能偶尔触发滑块验证，不影响核心功能
+!
+! [安全风控] api.xseclink.cn
+||api.xseclink.cn^
+! [安全风控] api.xseclink.com
+||api.xseclink.com^
+! [反作弊] boe-rig.bytedance.net
+||boe-rig.bytedance.net^
+! [安全验证] boe-verify.bytedance.net
+||boe-verify.bytedance.net^
+! [验证码服务] captcha.web.bytedance.net
+||captcha.web.bytedance.net^
+! [风控校验] gate.snssdk.com
+||gate.snssdk.com^
+! [反作弊] rig.bytedance.net
+||rig.bytedance.net^
+! [用户增长/WebView设置] safe.usergrowth.com.cn
+||safe.usergrowth.com.cn^
+! [设备指纹] sami.bytedance.com
+||sami.bytedance.com^
+! [安全风控] seclink.bytedance.com
+||seclink.bytedance.com^
+! [安全风控] security.snssdk.com
+||security.snssdk.com^
+! [安全风控] security.zijieapi.com
+||security.zijieapi.com^
+! [用户增长/WebView设置] settings.ttwebview.com
+||settings.ttwebview.com^
+! [设备指纹] tmaportal.snssdk.com
+||tmaportal.snssdk.com^
+! [用户增长/WebView设置] usergrowth.com.cn
+||usergrowth.com.cn^
+! [风控校验] vcs.zijieapi.com
+||vcs.zijieapi.com^
+! [安全验证] verify.snssdk.com
+||verify.snssdk.com^
+! [安全验证] verify.zijieapi.com
+||verify.zijieapi.com^
+
+! ========== 推荐级：性能监控（6 条）==========
+! 说明：Crash/性能数据采集，拦截不影响体验但会屏蔽诊断数据
+!
+! [性能监控] board.bytedance.net
+||board.bytedance.net^
+! [性能监控] creativity.bytedance.net
+||creativity.bytedance.net^
+! [性能监控] gecko.bytedance.net
+||gecko.bytedance.net^
+! [性能监控] scalpel-perf.bytedance.net
+||scalpel-perf.bytedance.net^
+! [性能监控] scalpel-perf.zijieapi.com
+||scalpel-perf.zijieapi.com^
+! [性能监控] scc.bytedance.com
+||scc.bytedance.com^
+!
+! ========== 可选级：推送拉活（16 条）==========
+! 说明：各厂商推送通道 SDK。拦截后推送可能延迟，App 内功能不受影响
+!
+! [三星推送] apps.samsung.com
+||apps.samsung.com^
+! [腾讯推送SDK] appsupport.qq.com
+||appsupport.qq.com^
+! [移动认证/推送] msg.cmpassport.com
+||msg.cmpassport.com^
+! [友盟推送] msg.umengcloud.com
+||msg.umengcloud.com^
+! [高德推送] mst0%d.is.autonavi.com
+||mst0%d.is.autonavi.com^
+! [联通推送] nisportal.10010.com
+||nisportal.10010.com^
+! [OPPO推送] ns.oplus.com
+||ns.oplus.com^
+! [vivo推送] ns.vivo.com
+||ns.vivo.com^
+! [小米推送] ns.xiaomi.com
+||ns.xiaomi.com^
+! [联通推送] opencloud.wostore.cn
+||opencloud.wostore.cn^
+! [移动认证/推送] rcs.cmpassport.com
+||rcs.cmpassport.com^
+! [小米推送] resolver.msg.xiaomi.net
+||resolver.msg.xiaomi.net^
+! [移动认证/推送] wap.cmpassport.com
+||wap.cmpassport.com^
+! [高德推送] webrd0%d.is.autonavi.com
+||webrd0%d.is.autonavi.com^
+! [高德推送] wprd0%d.is.autonavi.com
+||wprd0%d.is.autonavi.com^
+! [三星推送] www.samsungapps.com
+||www.samsungapps.com^

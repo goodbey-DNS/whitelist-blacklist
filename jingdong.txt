@@ -1,0 +1,280 @@
+! ===== 【必备】广告投放 ===== 
+! 京东自有广告引擎(SDK) + 联盟广告链路，拦截不影响APP核心功能
+!
+||anti-sdk-report-pre.m.jd.com^
+||anti-sdk-report.m.jd.com^
+||apollo-evaluate.jd.com^
+||fireactive.jd.com^
+||jingfen.jd.com^
+||mgate-pre1.jd.com^
+||mgate.jd.com^
+||sdk-pre1.jd.com^
+||sdk-pre2.jd.com^
+||sdk-pre3.jd.com^
+||sdkfp.jd.com^
+||skclick.jd.com^
+||union-click.jd.com^
+||union.m.jd.com^
+
+!
+! ===== 【必备】腾讯广告归因追踪 ===== 
+! h.trace.qq.com 是腾讯广告DataNexus归因端点，收集OAID/Android ID/CAID等设备标识
+! analytics.map.qq.com 是腾讯位置服务分析上报，非地图功能本身
+!
+||analytics.map.qq.com^
+||debugtbs.qq.com^
+||debugx5.qq.com^
+||h.trace.qq.com^
+
+!
+! ===== 【必备】京东行为追踪/埋点 ===== 
+! 京东自有埋点系统，采集用户点击流、页面访问、操作行为等数据
+! 拦截后不影响APP正常使用，仅影响京东内部数据统计
+!
+||anti-sdk-report-pre.m.jd.com^
+||arvision.jd.com^
+||beta-dizhi.m.jd.com^
+||beta-fireye.m.jd.com^
+||beta-go.m.jd.com^
+||beta-jcap.m.jd.com^
+||beta-lightcap.m.jd.com^
+||beta-newshare.m.jd.com^
+||beta-transformers.jd.com^
+||beta-un.m.jd.com^
+||beta-wlogin.m.jd.com^
+||beta-wmp-data.jd.com^
+||blackhole.m.jd.com^
+||breg.jd.com^
+||bunearth.m.jd.com^
+||capturehomeshare.m.jd.com^
+||ccc-wt.jd.com^
+||ccc-x.jd.com^
+||ccfjma.m.jd.com^
+||ccflbs.m.jd.com^
+||cdnware.m.jd.com^
+||cfe.m.jd.com^
+||cltm.jd.com^
+||clutter.m.jd.com^
+||dev.mpaas.jd.com^
+||divide.jd.com^
+||dizhi.m.jd.com^
+||dsap.jd.com^
+||esfr.m.jd.com^
+||ex.m.jd.com^
+||fireye.m.jd.com^
+||flowerlbs.m.jd.com^
+||go.m.jd.com^
+||heracles.jd.com^
+||heraclessaturn.jd.com^
+||in.m.jd.com^
+||jcap.m.jd.com^
+||knicks.jd.com^
+||ko.jd.com^
+||lc.m.jd.com^
+||lightcap.m.jd.com^
+||likerank.m.jd.com^
+||linkst.m.jd.com^
+||log.jd.com^
+||mars.jd.com^
+||mcr.jd.com^
+||mllog.jd.com^
+||mpaas.jd.com^
+||newshare.m.jd.com^
+||o.jd.com^
+||p-phc.jd.com^
+||p.m.jd.com^
+||packetsign.m.jd.com^
+||pcp.m.jd.com^
+||phc.jd.com^
+||plantearth.m.jd.com^
+||playdns.jd.com^
+||plogin.m.jd.com^
+||pmsec.m.jd.com^
+||pmthr.m.jd.com^
+||quicpro.jd.com^
+||re.m.jd.com^
+||rtc-media330.jd.com^
+||saturn.jd.com^
+||sfgala.jd.com^
+||share.m.jd.com^
+||shop.m.jd.com^
+||shopjump.m.jd.com^
+||sso.jd.com^
+||stream-outside.jd.com^
+||talos-transfer.jd.com^
+||terminal-compute-pre.m.jd.com^
+||tls.jd.com^
+||train.m.jd.com^
+||transformers.jd.com^
+||trip.m.jd.com^
+||turntable.m.jd.com^
+||uc.jd.com^
+||un.m.jd.com^
+||uranus.jd.com^
+||wlogin.m.jd.com^
+||wmp-data.jd.com^
+||wqs.jd.com^
+||xbox.jd.com^
+
+!
+! ===== 【必备】京东反作弊/设备指纹 ===== 
+! 京东安全SDK，采集设备指纹用于反作弊和风险控制
+! 拦截后部分风控功能可能降级（不影响基本购物）
+!
+||beta-crisk.jd.com^
+||beta-wlogin.jd.co.th^
+||beta-wlogin.m.jd.com^
+||breg.jd.com^
+||crisk.jd.com^
+||device-security-url.jd.com^
+||facegw-pre.jd.com^
+||facegw-rec.jd.com^
+||facegw.jdtest.net^
+||idauth.jd.com^
+||idauth.jdtest.net^
+||identify-pre.jd.com^
+||identify.jd.com^
+||identify.jdtest.net^
+||plogin.m.jd.com^
+||pre-device-security-url.jd.com^
+||reg.jd.com^
+||reg.jdtest.net^
+||secbox-pre.jd.com^
+||secbox.jd.com^
+||sso.jd.com^
+||verifycenter.jd.com^
+||verifycenter.jdtest.net^
+||wlogin-m.jdtest.net^
+||wlogin.jd.co.th^
+||wlogin.m.jd.com^
+
+!
+! ===== 【推荐】华为分析服务(HMS Core) ===== 
+! 华为分析SDK采集应用内事件、页面浏览、用户行为
+! 拦截后不影响APP功能，仅关停华为分析的数据上报
+!
+||data.hicloud.com^
+||datacollector-drcn.dt.dbankcloud.cn^
+||dt.dbankcloud.cn^
+||dt.dbankcloud.ru^
+||dt.hicloud.com^
+||edatacollector-drcn.dt.hicloud.com^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
+||grs.hicloud.com^
+||grs.platform.dbankcloud.ru^
+||metrics-dra.dt.hicloud.com^
+||metrics1-drcn.dt.dbankcloud.cn^
+||metrics2.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics5.dt.dbankcloud.ru^
+||platform.dbankcloud.ru^
+
+!
+! ===== 【推荐】性能监控(APM) ===== 
+! 京东自建APM，采集性能/网络/崩溃数据
+! 拦截后不影响使用，仅影响京东开发同学排障
+!
+||beta-wlmonitr.m.jd.com^
+||perf-custom.m.jd.com^
+||perf-lite.m.jd.com^
+||perf.joybuy.com^
+||perf.m.jd.com^
+||speedv4-bbr.m.jd.com^
+||wlmonitor.jd.co.th^
+||wlmonitor.m.jd.com^
+
+!
+! ===== 【推荐】推送统计 ===== 
+! 京东MPS推送相关统计接口，非推送通道本身
+!
+||beta-jpns.m.jd.com^
+||beta-redpoint-msg.m.jd.com^
+||jdmps.m.jd.com^
+||jpns.m.jd.com^
+||jpushsc.m.jd.com^
+||redpoint-msg.m.jd.com^
+
+!
+! ===== 【可选】推送拉活通道 ===== 
+! 覆盖京东集成的推送通道：华为、小米、魅族、中国移动
+! 拦截后京东APP将收不到推送通知（订单状态、促销等）
+!
+||api-push.meizu.com^
+||app.chat.xiaomi.net^
+||cert.cmpassport.com^
+||cn.app.chat.xiaomi.net^
+||cn.register.xmpush.xiaomi.com^
+||config2.cmpassport.com^
+||data-dra.push.dbankcloud.com^
+||data-drcn.push.dbankcloud.com^
+||data-dre.push.dbankcloud.com^
+||data-drru.push.dbankcloud.com^
+||log2.cmpassport.com^
+||opencloud.wostore.cn^
+||push.dbankcloud.com^
+||rcs.cmpassport.com^
+||register.xmpush.xiaomi.com^
+||resolver.msg.xiaomi.net^
+||sandbox.xmpush.xiaomi.com^
+||wap.cmpassport.com^
+! ===== 【可选】测试/预发布环境 ===== 
+! 京东内部测试域名（beta-, test-, *.jdtest.net, *-pre-*, *-dev-*）
+! 正常使用中几乎不会访问这些域名，拦截无害
+!
+||api.jdtest.net^
+||beta-address.m.jd.com^
+||beta-api.jd.co.th^
+||beta-api.m.jd.com^
+||beta-api2.m.jd.com^
+||beta-api3.m.jd.com^
+||beta-api4.m.jd.com^
+||beta-api5.m.jd.com^
+||beta-api6.m.jd.com^
+||beta-babelser.m.jd.com^
+||beta-bh.m.jd.com^
+||beta-cashier.m.jd.com^
+||beta-cc.m.jd.com^
+||beta-comment.m.jd.com^
+||beta-dns.jd.com^
+||beta-finish.m.jd.com^
+||beta-flow-static.jd.com^
+||beta-ge-app.jd.com^
+||beta-intra.jd.co.th^
+||beta-jdsharesoa.jd.com^
+||beta-lbsapi.m.jd.com^
+||beta-mini-app-static.jd.com^
+||beta-miniapp-fe.jd.com^
+||beta-mpay.m.jd.com^
+||beta-pro.m.jd.com^
+||beta-sq-api.m.jd.com^
+||beta-u.jd.com^
+||extpre-yanxi-api.jd.com^
+||jcap-m.jdtest.net^
+||jdpaycert.jdtest.net^
+||jdpaysdk.jdtest.net^
+||ls-taro-h5-test.web.jdtest.net^
+||mgate.jdtest.net^
+||pic.jdtest.net^
+||primary-bat-test.jdtest.net^
+||test-api.m.jd.com^
+||test-bh.m.jd.com^
+||test-dns.jd.com^
+! 京东金融/信托相关
+||dd.cfitc.com^
+! 开源音频编码库
+||lame.sf.net^
+! 京东爱回收服务
+||m.jd.aihuishou.com^
+! 未知第三方
+||www.jtzs.org^
+! 内存测试工具引用
+||www.memtest86.com^
+! TLD测试域
+||www.world^
+! 微信京东合作服务
+||wxdj.efivestar.com^
+! JetBrains问题追踪
+||youtrack.jetbrains.com^

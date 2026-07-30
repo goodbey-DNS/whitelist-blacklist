@@ -1,0 +1,16 @@
+########小米手机相关#########
+||xiaomi.com^
+||xiaomi.net^
+||xiaomi.cn^
+||mi.com^
+||miui.com^
+||mi.cn^
+||miui.com^
+||miui.cn^
+|xiaomimobile.com^
+||duokan.com^
+||51awifi.com^
+||caihong5g.com^
+||mi-img.com^
+||xtracloud.cn^
+||qualcomm.cn^

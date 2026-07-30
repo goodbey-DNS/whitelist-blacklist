@@ -1,0 +1,144 @@
+! ========== 【必备】广告投放 ==========
+! 阿里妈妈 Adash 广告投放与监测
+||adash.m.taobao.com^
+||adashx.m.taobao.com^
+||click.tanx.com^
+||ef-dongfeng.tanx.com^
+||h-adashx.ut.taobao.com^
+||log.mmstat.com^
+||s-adashx.ut.taobao.com^
+||s-gm.mmstat.com^
+||v6-adashx.ut.taobao.com^
+
+! 阿里妈妈 Tanx 广告交易平台（RTB 实时竞价）
+
+! 淘宝点击归因与广告跳转
+||iis.click.taobao.com^
+||s.click.taobao.com^
+
+! 动态广告创意 CDN
+||dinamicx.stdpop.com^
+||dinamicx.taobao.com^
+
+! 营销活动/推广页
+||act.ju.taobao.com^
+||caipiao.m.taobao.com^
+||campaign.wapa.taobao.com^
+||campaigncdn.m.taobao.com^
+||huodong.m.taobao.com^
+||huodong.taobao.com^
+||miaosuda.taobao.com^
+||taoke.mdaren.taobao.com^
+
+! 阿里系交叉推广
+||adiu.amap.com^
+||promotion.alipay.com^
+
+! 智能推荐/商品推广SDK
+||sjarvis.taobao.com^
+
+! ========== 【必备】行为追踪/归因 ==========
+! 阿里跨应用设备指纹（audid-api），采集设备唯一标识符用于跨应用跟踪
+||audid-api.taobao.com^
+! 全链路用户行为埋点
+||usertrack.alibaba-inc.com^
+! 用户行为分析与画像
+||atlas.m.taobao.com^
+||h.taobao.com^
+||ma.m.taobao.com^
+||ma.taobao.com^
+
+! ========== 【必备】反作弊/风控/安全 ==========
+! 阿里安全风控 SDK（采集传感器信息检测模拟点击）
+||acs-mum.alibabachengdun.com^
+||alibabachengdun.com^
+||aqcenter.taobao.com^
+||bizsec-auth.alicdn.com^
+||daren-auth.alicdn.com^
+||tbm-auth.alicdn.com^
+! 实人认证/身份验证
+||zmxy.com.cn^
+||zoloz.ap.com^
+! 移动运营商安全认证
+||cert.cmpassport.com^
+||config2.cmpassport.com^
+||log2.cmpassport.com^
+||rcs.cmpassport.com^
+! UC/夸克安全验证
+||auth.wpk.quark.cn^
+||px.wpk.quark.cn^
+||wpk-auth.ucweb.com^
+
+! ========== 【推荐】华为分析服务 ==========
+! 华为分析SDK，采集应用事件与设备信息
+||metrics-dra.dt.hicloud.com^
+||metrics1-drcn.dt.dbankcloud.cn^
+||metrics2.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics5.dt.dbankcloud.ru^
+
+! ========== 【推荐】性能监控/错误上报 ==========
+! 阿里云 ARMS 性能监控
+||arms-retcode.aliyuncs.com^
+! EMAS 移动监控
+||adash.emas-ha.cn^
+! 错误日志上报
+||err.taobao.com^
+||err.tmall.com^
+||fourier.taobao.com^
+! 饿了么/淘宝性能监控
+||app-monitor.ele.me^
+||cdn-watchcat.s.taobao.com^
+||nls-log-gather.aliyuncs.com^
+! UC/夸克日志上报
+||applog.lc.quark.cn^
+||applog.uc.cn^
+||gjapplog.ucweb.com^
+||track.lc.quark.cn^
+||woodpecker.uc.cn^
+
+! ========== 【可选】推送拉活/通道 ==========
+! 注意：拦截推送会导致消息推送延迟或丢失
+! 华为推送通道
+||data-dra.push.dbankcloud.com^
+||data-drcn.push.dbankcloud.com^
+||data-dre.push.dbankcloud.com^
+||data-drru.push.dbankcloud.com^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
+||grs.platform.dbankcloud.ru^
+
+! 小米推送通道
+||app.chat.xiaomi.net^
+||cn.register.xmpush.xiaomi.com^
+||resolver.msg.xiaomi.net^
+||sandbox.xmpush.xiaomi.com^
+
+! 魅族推送通道
+||api-push.in.meizu.com^
+||api-push.meizu.com^
+||push-statics.in.meizu.com^
+||push-statics.meizu.com^
+
+! 中国移动认证/推送
+||wap.cmpassport.com^
+
+! 中国电信认证/短信
+||api-e189.21cn.com^
+||card.e.189.cn^
+||crbt.i139.cn^
+||e.189.cn^
+||wap.sc.10086.cn^
+
+! 沃短信通道
+||ali.wosms.cn^
+||auth.wosms.cn^
+||msv6.wosms.cn^
+||opencloud.wostore.cn^
+||test.wosms.cn^
+
+! UC 消息推送
+||up4-intl.ucweb.com^
+||up4.ucweb.com^
